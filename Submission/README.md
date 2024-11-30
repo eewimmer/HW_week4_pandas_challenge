@@ -1,0 +1,8 @@
+# HW_week4_data_visualization_challenge
+Week 4 Data Visualization Challenge
+Emily Wimmer
+    Code files: schools_complete.csv holds school name, type, size and budget, indexed by school ID. Students_complete.csv contains student name, gender, grade, name of school they attend, readign score and math score. These files are compbined into one school_and_student.csv file indexed by student ID. Insturctor walkthrough and Xpert Learning Assistant were utilized as resources to complete this homework.
+Summary of analysis: School type and school size had the strongest effect on student's reading and math scores. School spending may not have a significant effect. This is shown when you compare schools in the school_spending df, district Bailey High School spends $46 more per student but only 54% of their students have overall passing scores. In comparison to charter Cabrera High School that spends less money per student but has a student population reduction of almost half and 91% of their students with overall passing scores. 
+ 
+    Conclusion #1: The top 5 performing schools are charter schools with ˜90% of their students having overall passing scores in both reading and math. The bottom 5 performing schools are district with only ˜50% of their students having overall passing scores in both reading and math. 
+Conclusion #2: Small and Medium school sizes both compare quite well in reading and math scores, while large school sizes do significantly worse. Small and medium school sizes have 89% and 90% of thier students with overall passing respectfully, while large school size see a large drop in % of students overal passing scores at only %58. 
