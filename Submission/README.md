@@ -1,5 +1,4 @@
 # HW_week4_pandas_challenge
-Week 4 Data Visualization Challenge
 Emily Wimmer
 Code files: schools_complete.csv holds school name, type, size and budget, indexed by school ID. Students_complete.csv contains student name, gender, grade, name of school they attend, readign score and math score. These files are compbined into one school_and_student.csv file indexed by student ID. Insturctor walkthrough and Xpert Learning Assistant were utilized as resources to complete this homework.
 Summary of analysis: School type and school size had the strongest effect on student's reading and math scores. School spending may not have a significant effect. This is shown when you compare schools in the school_spending df, district Bailey High School spends $46 more per student but only 54% of their students have overall passing scores. In comparison to charter Cabrera High School that spends less money per student but has a student population reduction of almost half and 91% of their students with overall passing scores. 
