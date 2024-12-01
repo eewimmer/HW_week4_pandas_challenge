@@ -1,4 +1,4 @@
-# HW_week4_data_visualization_challenge
+# HW_week4_pandas_challenge
 Week 4 Data Visualization Challenge
 Emily Wimmer
 Code files: schools_complete.csv holds school name, type, size and budget, indexed by school ID. Students_complete.csv contains student name, gender, grade, name of school they attend, readign score and math score. These files are compbined into one school_and_student.csv file indexed by student ID. Insturctor walkthrough and Xpert Learning Assistant were utilized as resources to complete this homework.
